@@ -1,2 +1,2 @@
-#Data Loading and Cleaning :
-...
+Sales Data Visualization Project
+Welcome to the Sales Data Visualization Project , a comprehensive analysis and visualization tool for exploring sales data! This project focuses on extracting meaningful insights from a rich dataset (Sales (2).csv) using advanced data cleaning, preprocessing, and visualization techniques. Whether you're a data analyst, business stakeholder, or developer, this project provides tools and visualizations to better understand sales patterns and make data-driven decisions .
